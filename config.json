@@ -1,0 +1,9 @@
+{
+    "MODEL_PATH": "d:\\Surkshit\\scream_detection\\models\\saved\\screaming_detection_model.h5",
+    "DATA_PATH": "D:/Surkshit/data",
+    "SAMPLE_RATE": 16000,
+    "AUDIO_DURATION": 3.0,
+    "THRESHOLD": 0.7,
+    "PARENT_PHONE": null,
+    "PARENT_EMAIL": null
+}
